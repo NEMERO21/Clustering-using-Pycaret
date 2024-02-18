@@ -82,10 +82,10 @@ The evaluation results for each algorithm, parameter, and number of clusters are
  ![image](https://github.com/NEMERO21/Clustering-using-Pycaret/assets/97607950/3994963e-43ef-42d0-b12e-2ef515c5656a)
 
 - t-SNE (3d) Dimension:
-  ![image](https://github.com/NEMERO21/Clustering-using-Pycaret/assets/97607950/ada0b446-c5b4-4ed2-a90b-9cdf30bdc735)
+  ![image](https://github.com/NEMERO21/Clustering-using-Pycaret/assets/97607950/ddefa625-4030-4ff1-9223-aefa57792524)
 
 - Cluster t-SNE (3d):
-  ![image](https://github.com/NEMERO21/Clustering-using-Pycaret/assets/97607950/f7ec59d2-cf5d-444d-9f33-de6a2aec45cc)
+  ![image](https://github.com/NEMERO21/Clustering-using-Pycaret/assets/97607950/e26526ef-5c4b-4c47-bdb7-fddad2b1232a)
 
 - Elbow Plot:
   ![image](https://github.com/NEMERO21/Clustering-using-Pycaret/assets/97607950/e2dbccc0-20d7-4c35-9cac-ba20729f8440)
