@@ -32,7 +32,7 @@ pip install ucimlrepo
 
 ## Code Overview
 
-- `wholesale_customers.py`: Python script containing the code to compare clustering algorithms.
+- `main.py`: Python script containing the code to compare clustering algorithms.
 
 - `README.md`: This README file providing instructions and information about the code.
 
