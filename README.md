@@ -79,7 +79,7 @@ The code compares the clustering algorithms under different preprocessing condit
 The evaluation results for each algorithm, parameter, and number of clusters are stored in the `evaluation_results` dictionary. The output displays the following for each combination of Clustering Algorithm, Cluster numbers, Evaluation Metrics, Parameters and Processing Techniques:
 
 - Pipeline Plot:
- ![image](https://github.com/NEMERO21/Clustering-using-Pycaret/assets/97607950/3994963e-43ef-42d0-b12e-2ef515c5656a)
+ ![image](https://github.com/NEMERO21/Clustering-using-Pycaret/assets/97607950/9609e9b1-0c3d-4a96-ae97-a48cad4410fa)
 
 - t-SNE (3d) Dimension:
   ![image](https://github.com/NEMERO21/Clustering-using-Pycaret/assets/97607950/ddefa625-4030-4ff1-9223-aefa57792524)
