@@ -38,7 +38,7 @@ pip install ucimlrepo
 
 ## Dataset
 
-The code fetches the Wholesale Customers dataset from the UCI Machine Learning Repository. This dataset contains information about the annual spending of various customers on different product categories.
+The code fetches the Wholesale Customers dataset from the UCI Machine Learning Repository. This dataset contains information about the annual spending of various customers on different product categories. You can also just download the `Wholesale customers data.csv` file of the dataset provided in this repository. 
 
 ## Clustering Algorithms
 
