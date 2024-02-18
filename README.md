@@ -32,7 +32,7 @@ pip install ucimlrepo
 
 ## Code Overview
 
-- `main.py`: Python script containing the code to compare clustering algorithms.
+- `main.ipynb`: Python script containing the code to compare clustering algorithms.
 
 - `README.md`: This README file providing instructions and information about the code.
 
