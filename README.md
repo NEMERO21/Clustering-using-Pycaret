@@ -94,6 +94,7 @@ The evaluation results for each algorithm, parameter, and number of clusters are
   ![image](https://github.com/NEMERO21/Clustering-using-Pycaret/assets/97607950/13d1f52e-d955-4c7b-ae66-14c3a87b245a)
 
 - Distance Plot:
+  
   ![image](https://github.com/NEMERO21/Clustering-using-Pycaret/assets/97607950/4b36e30a-f02c-4b17-b56b-d3ecc48e2ad7)
 
 - Distribution Plot:
